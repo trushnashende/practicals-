@@ -1,0 +1,11 @@
+<html>
+<title>Practical no.01</title>
+<head></head>
+<body>
+<p><b>We are here to learn <u>New elements</u> in <i>HTML</i></b></p>
+</body>
+<body bgcolor="blue">
+<h1>Trushna Shende</h1>
+<h2>CS25054</h2>
+<p>Hello,<br>we enjoyed learning new elements</p>
+</html>
